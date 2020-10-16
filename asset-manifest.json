@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/afrilearn-test/static/css/main.1fdec31e.chunk.css",
+    "main.js": "/afrilearn-test/static/js/main.12adb5fc.chunk.js",
+    "main.js.map": "/afrilearn-test/static/js/main.12adb5fc.chunk.js.map",
+    "runtime-main.js": "/afrilearn-test/static/js/runtime-main.f197766d.js",
+    "runtime-main.js.map": "/afrilearn-test/static/js/runtime-main.f197766d.js.map",
+    "static/js/2.3c1cd78b.chunk.js": "/afrilearn-test/static/js/2.3c1cd78b.chunk.js",
+    "static/js/2.3c1cd78b.chunk.js.map": "/afrilearn-test/static/js/2.3c1cd78b.chunk.js.map",
+    "index.html": "/afrilearn-test/index.html",
+    "precache-manifest.55d9364e279ae8591c223befd949d81d.js": "/afrilearn-test/precache-manifest.55d9364e279ae8591c223befd949d81d.js",
+    "service-worker.js": "/afrilearn-test/service-worker.js",
+    "static/css/main.1fdec31e.chunk.css.map": "/afrilearn-test/static/css/main.1fdec31e.chunk.css.map",
+    "static/js/2.3c1cd78b.chunk.js.LICENSE": "/afrilearn-test/static/js/2.3c1cd78b.chunk.js.LICENSE",
+    "static/media/HomeSection1.css": "/afrilearn-test/static/media/section1-backimg.602e902c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f197766d.js",
+    "static/js/2.3c1cd78b.chunk.js",
+    "static/css/main.1fdec31e.chunk.css",
+    "static/js/main.12adb5fc.chunk.js"
+  ]
+}

@@ -1,0 +1,32 @@
+.section1-container{
+background-image: url('../assets/section1-backimg.jpg');
+height: 100vh;
+background-size: cover;
+/* padding-left: 40rem; */
+padding: 12rem 15rem 0 15rem ;
+text-align: center;
+}
+
+.section1-button{
+   padding: 1rem;
+   background: #2BB58E;
+   border: none;
+   cursor: pointer;
+   color: white;
+   font-weight: bold;
+   margin-top: 2rem;
+}
+
+@media screen and (max-width: 480px) {
+    h1{
+        font-weight: 900;
+        font-size: 20px;
+        line-height: 42px;
+      }
+      .section1-container{
+        padding: 12rem 3rem 0 3rem;
+        }      
+    
+}
+
+
